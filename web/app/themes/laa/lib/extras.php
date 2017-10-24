@@ -2,7 +2,7 @@
 
 namespace Roots\Sage\Extras;
 
-use Roots\Sage\Setup;
+use Roots\laa\Setup;
 
 /**
  * Add <body> classes
